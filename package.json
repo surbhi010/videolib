@@ -1,0 +1,16 @@
+{
+  "name": "videolib",
+  "version": "1.0.0",
+  "description": "Can config video",
+  "main": "dist/index.js",
+  "dependencies": {
+    "typescript": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "author": "surbhi",
+  "license": "ISC"
+}
